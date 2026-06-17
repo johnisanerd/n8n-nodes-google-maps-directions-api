@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- badge -->
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#2563EB"/>
+  <!-- route line -->
+  <path d="M18 46 C18 36 30 38 30 30 C30 22 42 24 46 18" fill="none" stroke="#DBEAFE" stroke-width="4" stroke-linecap="round" stroke-dasharray="1 7"/>
+  <!-- start dot -->
+  <circle cx="18" cy="46" r="5" fill="#DBEAFE"/>
+  <!-- end pin -->
+  <path d="M46 12 C42 12 39 15 39 19 C39 25 46 30 46 30 C46 30 53 25 53 19 C53 15 50 12 46 12 Z" fill="#DBEAFE"/>
+  <circle cx="46" cy="19" r="2.4" fill="#2563EB"/>
+</svg>
